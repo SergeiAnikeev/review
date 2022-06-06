@@ -18,4 +18,4 @@ The app uses local data stored in `data.js` with properties:
 - Functionality prevents choosing a number out of array indexes, the next person after the last one moves to the first person in the array and if we press the previous person when we are at the first index, it shifts to the last one.
 ## Site online
 There is a link where you can find this project online:
-[review-react-app-2022]
+[review-react-app-2022](https://review-react-app-2022.netlify.app/)
